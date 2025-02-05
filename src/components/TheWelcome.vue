@@ -34,5 +34,7 @@ const openReadmeInEditor = () => fetch('/__open-in-editor?file=README.md')
       <EcosystemIcon />
     </template>
     <template #heading>Me doa um café?</template>
-  </WelcomeItem>
+    Bem, eu tenho um ko-fi, e se você pudesse me ajudar, por favor,
+    <a href="https://bitly.cx/pipdpnd">doa pra mim?</a></WelcomeItem
+  >
 </template>
