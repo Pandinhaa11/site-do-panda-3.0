@@ -35,6 +35,5 @@ const openReadmeInEditor = () => fetch('/__open-in-editor?file=README.md')
     </template>
     <template #heading>Me doa um café?</template>
     Bem, eu tenho um ko-fi, e se você pudesse me ajudar, por favor,
-    <a href="https://bitly.cx/pipdpnd">doa pra mim?</a></WelcomeItem
-  >
+    <a href="https://bitly.cx/pipdpnd">doa pra mim?</a></WelcomeItem>
 </template>

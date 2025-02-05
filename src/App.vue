@@ -11,11 +11,13 @@ import TheWelcome from './components/TheWelcome.vue'
       <HelloWorld msg="Bem vindo á minha página!" />
     </div>
   </header>
-
   <main>
     <TheWelcome />
   </main>
 </template>
+
+
+
 
 <style scoped>
 header {
